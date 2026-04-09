@@ -2,7 +2,7 @@
 share_link: https://share.note.sx/9fv4hzb5#xxwSVhTGjbX1MOFEW0M9NFsLOqg7gHbnw3kiSwyCLtg
 share_updated: 2025-06-02T13:19:59+07:00
 ---
-**Обновление 01.02.2026**
+**Обновление 01.04.2026**
 
 # Длинный меч
 
