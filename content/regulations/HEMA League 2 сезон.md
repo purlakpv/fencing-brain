@@ -9,7 +9,7 @@
 
 1.3. Справочная информация:
 	1.3.1.Официальный сайт Лиги: [https://hema-magisterium.ru/hema-league](https://hema-magisterium.ru/hema-league)
-	1.3.2. Положение проведения лиги:
+	1.3.2. Положение проведения лиги: [https://purlakpv.github.io/fencing-brain/regulations/HEMA-League-2-сезон](https://purlakpv.github.io/fencing-brain/regulations/HEMA-League-2-%D1%81%D0%B5%D0%B7%D0%BE%D0%BD)
 	1.3.3. Актуальная версия правил: [https://hema-magisterium.ru/rules](https://hema-magisterium.ru/rules), или [https://purlakpv.github.io/fencing-brain/](https://purlakpv.github.io/fencing-brain/)
 
 1.4. Сезон Лиги включает в себя **9 (девять) общих этапов**. Календарь этапов утверждается организационным комитетом Лиги и публикуется не позднее, чем за 30 дней до начала первого этапа.
